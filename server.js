@@ -37,4 +37,4 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-console.log('End');
+console.log('Start');
